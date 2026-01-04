@@ -234,13 +234,3 @@ Status
 
 This repository represents an ongoing exploratory research project.
 Design clarity and epistemic discipline are prioritized over feature velocity.
-
-If you read this README and feel:
-
-grounded rather than hyped
-
-constrained in a productive way
-
-more curious about representations than models
-
-Then this project is correctly framed.
