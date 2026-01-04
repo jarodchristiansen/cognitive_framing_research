@@ -1,0 +1,4 @@
+,source,documents,segments,avg_confidence,min_confidence,max_confidence
+0,Guardian,4,7,0.197,0.157,0.260
+1,BBC_News,1,1,0.213,0.213,0.213
+2,NPR,2,3,0.217,0.193,0.229
